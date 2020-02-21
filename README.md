@@ -1,4 +1,4 @@
-#Get~Set~G0
+#Get_Set_G0
 
 This is a small use cases of 'Canvas API' in JavaScript with basics of HTML and CSS. 
 
