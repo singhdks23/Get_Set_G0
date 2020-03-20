@@ -1,6 +1,6 @@
 # Get_Set_G0
 
-_Italics_ This is a small use cases of 'Canvas API' in JavaScript with basics of HTML and CSS. 
+_This is a small use cases of 'Canvas API' in JavaScript with basics of HTML and CSS._ 
 
 # Game Rules :
 
