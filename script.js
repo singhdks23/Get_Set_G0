@@ -12,7 +12,7 @@ const circle = {
 
 const circle2 = {
     x: 400,
-    y: 400,
+    y: 50,
     size: 25,
     dx: 6,
     dy: 5
