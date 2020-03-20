@@ -9,7 +9,7 @@ Everytime the Ball hits the boundary You will receive +1 point in the Score Boar
 With higher speed will Eventually appear in the arena and now you are supposed to save the Character from both the Balls.
 Lastly, The 'Green' Ball will come up with Highest speed and Now you know what you have to Do - SAVE THE CHARACTER!.
 
-So are you ~~Get Set G0~~! ![character](https://github.com/singhdks23/Get_Set_G0/blob/master/char1.png)
+>So are you ~~Get Set G0~~!   ![character](https://github.com/singhdks23/Get_Set_G0/blob/master/char1.png)
 
 
 # Usage
