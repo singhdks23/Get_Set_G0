@@ -4,7 +4,7 @@ _This is a small use cases of 'Canvas API' in JavaScript with basics of HTML and
 
 ___
 
-# Game Rules :
+## Game Rules 
 
 There is a Character with initially One Ball and you need to save the Character from colliding with the Ball.
 Everytime the Ball hits the boundary You will receive +1 point in the Score Board. After sometime, another Ball
@@ -16,7 +16,7 @@ Lastly, The 'Green' Ball will come up with Highest speed and Now you know what y
 ___
 
 
-# Usage
+## Usage
 
 Go ahead and try it in your own Browser and explore the use cases of Canvas API.
 
